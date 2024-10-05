@@ -44,6 +44,6 @@ I’m always open to collaboration and new opportunities! Feel free to reach out
 
 - **Email**: [mekomouekeune@gmail.com](mailto:mekomouekeune@gmail.com)<br>
 - **LinkedIn**: [Emmanuel Christian Mekomou Ekeune](https://www.linkedin.com/in/emmanuel-christian-mekomou-ekeune-012002250/)<br>
-- **GitHub**: [Keunechristian](https://github.com/Ekeunechristian)
+- **GitHub**: [EKeunechristian](https://github.com/Ekeunechristian)
 
 Thank you for visiting my portfolio! I look forward to connecting with you! 🚀
