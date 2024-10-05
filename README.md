@@ -1,4 +1,4 @@
-# 🌟 Welcome to My Portfolio! 🌟
+# 🌟 Welcome to My GitHub! 🌟
 
 Hello! I'm an **undergraduate student** with a deep passion for **Computer Science**.<br>
 I enjoy turning ideas into reality through programming and am constantly striving to improve my skills.
@@ -27,11 +27,11 @@ I am proficient in the following technologies and programming languages:
  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
 
-I have foundational knowledge in these technologies and am continuously working to develop my skills further.
+I have **foundational knowledge** in these technologies and am continuously working to develop my skills further.
 
 ## 📁 Projects
 
-I've worked on a variety of projects that showcase my abilities and interests. You can explore them in the **Projects** section of my portfolio. Each project reflects my journey and learning process in the world of coding.
+I've worked on a variety of projects that showcase my abilities and interests. You can explore them in the **Projects** section of my GitHub. Each project reflects my journey and learning process in the world of coding.
 
 ## 🌐 Personal Portfolio
 
@@ -44,6 +44,6 @@ I’m always open to collaboration and new opportunities! Feel free to reach out
 
 - **Email**: [mekomouekeune@gmail.com](mailto:mekomouekeune@gmail.com)<br>
 - **LinkedIn**: [Emmanuel Christian Mekomou Ekeune](https://www.linkedin.com/in/emmanuel-christian-mekomou-ekeune-012002250/)<br>
-- **GitHub**: [Your GitHub Profile](https://github.com/Ekeunechristian)
+- **GitHub**: [Keunechristian](https://github.com/Ekeunechristian)
 
 Thank you for visiting my portfolio! I look forward to connecting with you! 🚀
