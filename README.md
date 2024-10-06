@@ -11,7 +11,7 @@ I enjoy turning ideas into reality through programming and am constantly strivin
 
 ## 🛠️ Technologies & Skills
 
-I am proficient in the following technologies and programming languages:
+I have **foundational Knowledge** in the following technologies and programming languages:
 
 
 
@@ -27,7 +27,7 @@ I am proficient in the following technologies and programming languages:
  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
 
-I have **foundational knowledge** in these technologies and am continuously working to develop my skills further.
+As an aspiring Full Stack Cloud Developer I am continuously working to develop advance Knowledge in this technologies.
 
 ## 📁 Projects
 
