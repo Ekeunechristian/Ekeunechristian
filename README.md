@@ -25,7 +25,6 @@ I have **foundational Knowledge** in the following technologies and programming 
  ![Laravel](https://img.shields.io/badge/Laravel-EF3E30?style=flat&logo=laravel&logoColor=white) 
  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) 
  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
 
 As an aspiring Full Stack Cloud Developer I am continuously working to develop advance Knowledge in this technologies.
 
